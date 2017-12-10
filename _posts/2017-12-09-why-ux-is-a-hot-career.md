@@ -10,3 +10,5 @@ featured_image: /uploads/ux-hot-career.jpg
 This is why UX is hot
 
 &nbsp;
+
+Photo by William Iven on Unsplash
