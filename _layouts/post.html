@@ -2,7 +2,10 @@
 layout: default
 ---
 <article class="post">
+    
+<!-- REMOVED JUMP BUTTON
 	{% include post-heading.html post=page post_page=true %}
+-->
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
@@ -10,15 +13,13 @@ layout: default
 	<div class="recipe-body">
 		{{ content }}
 	</div>
-
+<!--
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
 		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
 	</ul>
 
-
-<!--
 	<div class="recipe-contents">
 		<div class="ingredients">
 			<h2>Ingredients</h2>
