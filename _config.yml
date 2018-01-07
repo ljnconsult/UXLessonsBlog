@@ -13,8 +13,8 @@ logo: /siteicon.png
 description: UX Lessons Blog
 author:
   name:
-  email:
-  twitter: # twitter username without the @ symbol
+  email: john@uxlessons.com
+  twitter: ux_lessons # twitter username without the @ symbol
 social:
   name: UX Lessons
   links:
