@@ -17,7 +17,7 @@ This brings us to the first of 3 reasons why UX is such a hot career right now.
 
 With all these VR/AR, voice enabled, smart and connected wearable devices hitting the market, more UXers will be employed to research, design and strategize how to improve these technologies, so they can 1) delight customers with amazing experiences and 2) increase product market share. A good example of a rapidly growing technology is Amazon’s Echo product which leverages voice and AI to create a new way to interact with Amazon.com, your music and other devices and services with simple voice commands. Google has taken note of the AI/voice enabled device trend and released a similar product last October called the Google Home Mini. Apple is also expected to release their Siri based HomePod device in early 2018. This is great news for UXers interested in leveraging voice and AI technology to create better experiences. And I’ve recently seen several jobs posting for companies looking for UXers with experience in voice and AI technology. Also, keep your eye on advances in VR, I was finally convinced about the merits of this technology after I experienced PlayStation VR last Christmas. VR is so immersive and it opens up a whole new world of interaction between the real world and virtual spaces.
 
-![Jacob Experiencing PlayStation VR](/uploads/versions/jacob-playstation-vr-virtual-reality---x----640-526x---.jpg)
+![Jacob Experiencing PlayStation VR](/uploads/versions/jacob-playstation-vr-virtual-reality-1---x0-0-640-526-640-526x---.jpg)
 
 ### **UXers Make More Money?**
 
