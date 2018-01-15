@@ -5,7 +5,7 @@ title: UX Lessons
 url: "https://wandering-spear.cloudvent.net/"
 baseurl:
 google_analytics_key: UA-112395338-1
-newsletter_action: "//your-mailchimp-action-url.com"
+newsletter_action: https://uxlessons.us17.list-manage.com/subscribe/post?u=8d4706839d3db929660ffd0ea&amp;id=6b5f0841c6
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
