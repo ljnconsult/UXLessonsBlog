@@ -19,12 +19,15 @@ With all these VR/AR, voice enabled, smart and connected wearable devices hittin
 
 ![Jacob Experiencing PlayStation VR](/uploads/versions/jacob-playstation-vr-virtual-reality-1---x0-0-640-526-640-526x---.jpg)
 
-
 ### **UXers Make More Money?**
 
 I posed the headline as a question because there are several factors that impact salaries such as job title, location, years of experience, etc. However, all things being equal, we consistently see higher salaries with User Experience Designers versus Graphic and Visual Designers. As you can see below, the difference in median salaries according to payscale.com is over $30,000. UX Researchers also have higher salaries when compared to other research careers.
 
- <a href="https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg">Data Provided by Payscale.com </a>
+![](/uploads/versions/ux-designer-salary-2018---x----649-244x---.jpg)
+
+![](/uploads/versions/graphic-designer-salary-2018---x----647-243x---.jpg)
+
+###### [Data Provided by Payscale.com](https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg)**[](https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg)**
 
 ### **UX Is Fun & Rewarding**
 
