@@ -1,5 +1,5 @@
 ---
-date: 2018-01-12 00:00:00
+date: 2018-01-17 00:00:00
 title: 3 Reasons Why UX Careers Will Be Hot In 2018
 categories:
   - UX Careers
@@ -23,9 +23,9 @@ With all these VR/AR, voice enabled, smart and connected wearable devices hittin
 
 I posed the headline as a question because there are several factors that impact salaries such as job title, location, years of experience, etc. However, all things being equal, we consistently see higher salaries with User Experience Designers versus Graphic and Visual Designers. As you can see below, the difference in median salaries according to payscale.com is over $30,000. UX Researchers also have higher salaries when compared to other research careers.
 
-![](/uploads/versions/ux-designer-salary-2018---x----649-244x---.jpg)
+![UX Designer Salary 2018](/uploads/versions/ux-designer-salary-2018---x----649-244x---.jpg)
 
-![](/uploads/versions/graphic-designer-salary-2018---x----647-243x---.jpg)
+![Graphic Designer Salary 2018](/uploads/versions/graphic-designer-salary-2018---x----647-243x---.jpg)
 
 ###### [Data Provided by Payscale.com](https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg)**[](https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg)**
 
