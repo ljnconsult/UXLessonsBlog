@@ -23,37 +23,7 @@ With all these VR/AR, voice enabled, smart and connected wearable devices hittin
 
 I posed the headline as a question because there are several factors that impact salaries such as job title, location, years of experience, etc. However, all things being equal, we consistently see higher salaries with User Experience Designers versus Graphic and Visual Designers. As you can see below, the difference in median salaries according to payscale.com is over $30,000. UX Researchers also have higher salaries when compared to other research careers.
 
-<div style="width:628px; border: 1px solid #cecece; font-family: 'Open Sans'; padding:10px 0 10px 10px;"><div style="font-size:20px; text-align: center;"><a style="text-decoration: none; color:#0066cc;" target="_blank" rel="nofollow" href="https://www.payscale.com/research/US/Job=User_Experience_Designer/Salary">User Experience Designer</a> (United States)</div><span></span></div>
-
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700" />
-
-<link rel="stylesheet" type="text/css" href="https://cdn-payscale.com/css/rc-chart.css" />
-
-<div class="results-salary" style="width: 608px;; padding: 0 5px 0 5px;"><span><style type="text/css">.medianHeader,.medianClear,.bottomClear{display : none;}</style></span><div><div class="sectionBody"><div class="results-salary"><div class="clip-children"><div class="ticklines-header"><div class="clear" style="min-height: 5px;">&nbsp;</div><div class="head-block"><div class="tickheader">&nbsp;</div></div><div class="clear" style="min-height: 54px;">&nbsp;</div></div><div class="results-table"><div class="linepane"><div class="line" style="left: 0%">&nbsp;</div><div class="whiteline" style="left: 62.9777795563043%">&nbsp;</div><div class="you_star_container" style="left: 62.9777795563043%;"><div class="you_star">&nbsp;</div></div><div class="you_label_arrow" style="left: 62.9777795563043%;"><div class="you_label" style="left: -50%;"><span>MEDIAN: $72,379</span></div></div></div><div><div class="stripe"><div class="salary-info"><div class="graph"><div class="box stripe10to25percent" style="left: 41.98%;width: 9.55%">&nbsp;</div><div class="box stripe25to75percent" style="left: 51.53%;width: 24.51%">&nbsp;</div><div class="box stripe75to90percent" style="left: 76.04%;width: 13.96%">&nbsp;</div></div></div></div></div></div><div class="arrow-right">&nbsp;</div><div class="clear">&nbsp;</div><div class="ticklines-header"><div class="head-block"><div class="tickheader">&nbsp;</div></div><div class="clear" style="min-height: 20px;">&nbsp;</div></div><div class="clear bottomClear" style="min-height: 10px;">&nbsp;</div></div></div><div style="font-size: 13px; padding-top: 9px; font-style: italic; color: #333;"><span>Currency: USD | Updated: 14 Jan 2018 | Individuals Reporting: 3441</span></div></div></div><div style="margin:0 auto;">&nbsp;</div></div>
-
-<script type="text/javascript" src="https://www.payscale.com/syndication/total_pay_chart.aspx?js=&amp;country=United+States&amp;city=&amp;state=&amp;job=User+Experience+Designer&amp;company=&amp;width=628px&amp;showhourly=0&amp;chartTNG=1&amp;showfooter=1&amp;reportid=7518fdfe&amp;skills=&amp;explvl="></script>
-
-<div style="float: right; padding-right: 12px;"><img alt="PayScale" height="25" width="75" src="https://www.payscale.com/images/small_logo_transparent.png" /></div>
-
-<div style="font-size: 13px; padding-top: 9px; font-style: italic; color: #333;">&nbsp;</div>
-
-<div style="font-size: 14px;">Compare your salary. <a rel="nofollow" target="_blank" style="color: #0066cc; text-decoration: none;" href="https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg">Get a FREE salary report &raquo;</a></div>
-
-<div style="width:628px; border: 1px solid #cecece; font-family: 'Open Sans'; padding:10px 0 10px 10px;"><div style="font-size:20px; text-align: center;"><a style="text-decoration: none; color:#0066cc;" target="_blank" rel="nofollow" href="https://www.payscale.com/research/US/Job=Graphic_Designer/Salary">Graphic Designer</a> (United States)</div><span></span></div>
-
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700" />
-
-<link rel="stylesheet" type="text/css" href="https://cdn-payscale.com/css/rc-chart.css" />
-
-<div class="results-salary" style="width: 608px;; padding: 0 5px 0 5px;"><span><style type="text/css">.medianHeader,.medianClear,.bottomClear{display : none;}</style></span><div><div class="sectionBody"><div class="results-salary"><div class="clip-children"><div class="ticklines-header"><div class="clear" style="min-height: 5px;">&nbsp;</div><div class="head-block"><div class="tickheader">&nbsp;</div></div><div class="clear" style="min-height: 54px;">&nbsp;</div></div><div class="results-table"><div class="linepane"><div class="line" style="left: 0%">&nbsp;</div><div class="whiteline" style="left: 62.4923591193334%">&nbsp;</div><div class="you_star_container" style="left: 62.4923591193334%;"><div class="you_star">&nbsp;</div></div><div class="you_label_arrow" style="left: 62.4923591193334%;"><div class="you_label" style="left: -50%;"><span>MEDIAN: $42,083</span></div></div></div><div><div class="stripe"><div class="salary-info"><div class="graph"><div class="box stripe10to25percent" style="left: 45.35%;width: 8.03%">&nbsp;</div><div class="box stripe25to75percent" style="left: 53.38%;width: 21.71%">&nbsp;</div><div class="box stripe75to90percent" style="left: 75.09%;width: 14.91%">&nbsp;</div></div></div></div></div></div><div class="arrow-right">&nbsp;</div><div class="clear">&nbsp;</div><div class="ticklines-header"><div class="head-block"><div class="tickheader">&nbsp;</div></div><div class="clear" style="min-height: 20px;">&nbsp;</div></div><div class="clear bottomClear" style="min-height: 10px;">&nbsp;</div></div></div><div style="font-size: 13px; padding-top: 9px; font-style: italic; color: #333;"><span>Currency: USD | Updated: 15 Jan 2018 | Individuals Reporting: 18376</span></div></div></div><div style="margin:0 auto;">&nbsp;</div></div>
-
-<script type="text/javascript" src="https://www.payscale.com/syndication/total_pay_chart.aspx?js=&amp;country=United+States&amp;city=&amp;state=&amp;job=Graphic+Designer&amp;company=&amp;width=628px&amp;showhourly=0&amp;chartTNG=1&amp;showfooter=1&amp;reportid=18f6bd57&amp;skills=&amp;explvl="></script>
-
-<div style="float: right; padding-right: 12px;"><img alt="PayScale" height="25" width="75" src="https://www.payscale.com/images/small_logo_transparent.png" /></div>
-
-<div style="font-size: 13px; padding-top: 9px; font-style: italic; color: #333;">&nbsp;</div>
-
-<div style="font-size: 14px;">Compare your salary. <a rel="nofollow" target="_blank" style="color: #0066cc; text-decoration: none;" href="https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg">Get a FREE salary report &raquo;</a></div>
+ <a href="https://www.payscale.com/wizards/choose.aspx?TK=Embed_Lg">Get a FREE salary report &raquo;</a></div>
 
 ### **UX Is Fun & Rewarding**
 
