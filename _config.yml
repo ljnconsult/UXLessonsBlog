@@ -6,7 +6,7 @@ url: "http://www.uxlessons.com"
 baseurl:
 google_analytics_key: UA-112395338-1
 newsletter_action: https://uxlessons.us17.list-manage.com/subscribe/post?u=8d4706839d3db929660ffd0ea&amp;id=6b5f0841c6
-disqus_shortname:
+disqus_shortname: uxlessons.disqus.com
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
