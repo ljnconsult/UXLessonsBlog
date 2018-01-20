@@ -4,7 +4,6 @@ title: 3 Reasons Why UX Careers Will Be Hot In 2018
 categories:
   - UX Careers
 featured_image: /uploads/ux-hot-career.jpg
-comments: true
 ---
 
 
