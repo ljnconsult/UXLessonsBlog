@@ -17,7 +17,7 @@ UX internships are a great way to get experience and a chance to get to know a c
 
 &nbsp;
 
-## **Freelancing**
+## Freelancing
 
 Does the idea of freelancing intimidate you? Honestly, it used to intimidate me because I didn’t feel comfortable charging for work and I really had no clue what to charge my clients for UX work. However, when you get over your initial fear/anxiety about charging for your work, you will be able to create a lot of value for your clients and gain valuable experience. You see, UX problems that need solving are everywhere, if you know a friend or family member that runs a small business, chances are they have UX problems in their business. Research where their UX is the weakest and ask if you can help them improve it for a small fee. It helps if you can show how fixing the UX problems will positively impact both the business and its customers.
 
@@ -28,6 +28,8 @@ Does the idea of freelancing intimidate you? Honestly, it used to intimidate me 
 What if you really want to work with a business but they have little or no money to pay you? Again, gaining valuable experience should be your primary motivator, so ask yourself if this opportunity will provide the experience you seek. If so, you can take a lower fee or even volunteer your services in exchange for the opportunity to build your resume and portfolio. A word of caution about volunteering; I recommend you set a time limit in terms of the number of hours and weeks to complete the project. Also, be very clear and specific about what you will do and not do for the business during your engagement. Settings these limits upfront is vital to the business and volunteer relationship.
 
 &nbsp;
+
+## Next Steps
 
 Internships, freelancing and volunteering are win-win opportunities because they help businesses realize the importance and benefits of improving UX and it can help you gain valuable experience. I’ve helped several small businesses and non-profits with their marketing and UX challenges and they have provided testimonials and recommended me for future opportunities. Now in order to findinternships and other opportunities, I recommend that you get connected with professional UX organizations, social media groups, local meetups and contribute to those groups whenever you can. Also, remember to document everything; take pictures of your sketches, white-boarding, post-it notes, user-interview sessions and save screenshots and versions of your prototypes as you go along. Don’t be like me, I was kind of lazy about documenting the entire UX process and my portfolio suffered because out it.
 
