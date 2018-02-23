@@ -1,6 +1,7 @@
 ---
 title: Top UX Design Tools for 2018
 categories:
+  - UX Design
 date:
 featured_image:
 ---
@@ -17,7 +18,7 @@ Just about every designer has heard of Photoshop and Illustrator at some point b
 
 Adobe XD is slightly different though, it was created from the ground up by Adobe as a rapid design/prototyping tool for UX designers. The biggest benefits of using XD are the ability to do design and prototyping all in one tool and its integration with other Adobe tools. If you already use Photoshop and Illustrator in your design workflow, then it may make sense for you to use XD as your prototyping tool.
 
-UXers should definitely familiarize themselves with Photoshop and Illustrator. I still see many companies listing proficiency with Adobe tools as preferred skills. Photoshop and Illustrator are the tools I first learned in my early years as a web designer and I still use Photoshop and Illustrator in my UX work today. By the way, I taught myself Photoshop and Illustrator from books many years ago and you can to. If you don’t want to learn from books check out Lynda.com and similar website for tutorials. &nbsp;
+UXers should definitely familiarize themselves with Photoshop and Illustrator. I still see many companies listing proficiency with Adobe tools as preferred skills. Photoshop and Illustrator are the tools I first learned in my early years as a web designer and I still use Photoshop and Illustrator in my UX work today. By the way, I taught myself Photoshop and Illustrator from books many years ago and you can to. If you don’t want to learn from books check out Lynda.com and similar website for tutorials.
 
 **A Popular UX Design Tool**
 
@@ -31,4 +32,4 @@ Online design and collaboration tools such as UXPin and Figma are growing in pop
 
 **Framer and Invision Studio**
 
-Before concluding this article, I want to add that simply learning the latest tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. UX tools change constantly so use whatever tool(s) you are comfortable with to get the job done. However, experience with the latest tools may give you a slight edge in your job search and the right tools can also save time and improve collaboration within your team. &nbsp;
+Before concluding this article, I want to add that simply learning the latest tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. UX tools change constantly so use whatever tool(s) you are comfortable with to get the job done. However, experience with the latest tools may give you a slight edge in your job search and the right tools can also save time and improve collaboration within your team.
