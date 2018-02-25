@@ -24,6 +24,6 @@ Sketch might be the current favorite of UX designers but [InVision Studio](https
 
 Last but certainly not least, the browser-based design tools such as [Figma](https://www.figma.com/) and [UXPin](https://www.uxpin.com/) are growing in popularity; they offer good design tools, plus collaborative design environments, shared libraries and components.
 
-**Tools Are Great But…**<br>Learning the latest tools may help you gain an edge in your job search and the right tools can also save time and improve collaboration within your team. &nbsp;But keep in mind that simply learning tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. Tools will never replace a solid user-centered design process and UX design tools change constantly, so use whatever tool(s) you and your team are most comfortable with to get the job done.
+**Tools Are Great But…**<br>Learning the latest tools may help you gain an edge in your job search and the right tools can also save time and improve collaboration within your team.  But keep in mind that simply learning tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. Tools will never replace a solid user-centered design process and UX design tools change constantly, so use whatever tool(s) you and your team are most comfortable with to get the job done.
 
 If you’ve enjoyed this article please share it with anyone that might be interested in learning more about UX tools.
