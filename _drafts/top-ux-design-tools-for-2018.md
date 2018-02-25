@@ -3,7 +3,7 @@ title: Top UX Design Tools for 2018
 categories:
   - UX Design
 date: 2018-02-26 00:00:00
-featured_image:
+featured_image: /uploads/top-ux-design-tools-2018.jpg
 ---
 
 If you are new to UX you are probably wondering which design tools you should learn to secure a job. If you’ve been a UX designer for a while, you’ve probably settled on two or three design tools as your favorites but you may be looking for some other tools to streamline your workflow or increase your marketability as a UX designer. This article will cover several tools listed on [uxtools.co](http://uxtools.co/tools/design) and I’ll share my personal opinion based on 20 years of experience working with various design tools.
