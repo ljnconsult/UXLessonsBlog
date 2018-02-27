@@ -32,6 +32,6 @@ Last but certainly not least, the browser-based design tools such as [Figma](htt
 
 ## **Tools Are Great But…**
 
-Learning the latest tools may help you gain an edge in your job search and the right tools can also save time and improve collaboration within your team. But keep in mind that simply learning tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. Tools will never replace a solid user-centered design process and UX design tools change constantly, so use whatever tool(s) you and your team are most comfortable with to get the job done. So which design tool will you learn next? :-)
+Learning the latest tools may help you gain an edge in your job search and the right tools can also save time and improve collaboration within your team. But keep in mind that simply learning tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. Tools will never replace a solid user-centered design process and UX design tools change constantly, so use whatever tool(s) you and your team are most comfortable with to get the job done.
 
 If you’ve enjoyed this article please share it on social media.
