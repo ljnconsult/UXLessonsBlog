@@ -18,20 +18,20 @@ UXers should definitely familiarize themselves with Photoshop and Illustrator. I
 
 ## **The Current Favorite Is…**
 
-[Sketch](https://www.sketchapp.com/) is a Mac only design tool that has become the favorite of many UX designers. Sketch allows you to create vector-based designs and it leverages art boards, symbols and libraries to help you stay organized and make changes rapidly. The ability to extend Sketch with hundreds of plugins makes it even more powerful. For example, with plugins, you can enhance your designs, automate tasks, import data, and export/convert your designs. Sketch also comes with a free cloud account where you can upload your designs and share them to gather user and team feedback.
+[Sketch](https://www.sketchapp.com/) is a Mac-based design tool that has become the favorite of many UX designers. Sketch allows you to create vector-based designs and it leverages art boards, symbols and libraries to help you stay organized and make changes rapidly. The ability to extend Sketch with hundreds of plugins makes it even more powerful. For example, with plugins, you can enhance your designs, automate tasks, import data, and export/convert your designs. Sketch also comes with a free cloud account where you can upload your designs and share them to gather user and team feedback.
 
-I’m not a Sketch expert by any means, but I’ve begun to favor it over Photoshop, Illustrator and XD and [Axure](https://www.axure.com/) for building out simple website and app designs. I’ve also seen many job postings that list Sketch as a preferred tool so definitely add Sketch to your list of tools to consider for UX design.
+I’m not a Sketch expert by any means, but I’ve begun to favor it over Photoshop, Illustrator, XD and [Axure](https://www.axure.com/) for building out simple website and app designs. I’ve also seen many job postings that list Sketch as a preferred tool so definitely add Sketch to your list of tools to consider for UX design.
 
 ## **Tools to Watch in 2018**
 
-[Framer](https://framer.com/) is primarily a prototyping tool and designers need to be comfortable writing code in order to truly take advantage of Framer. The good news is that Framer recently enhanced its built-in design tools and that has made Framer’s design/prototyping workflow a little easier. So if you are comfortable coding and you need to create high quality prototypes, then take a look at Framer.
-
 Sketch might be the current favorite of UX designers but [InVision Studio](https://www.invisionapp.com/studio) might be the tool to supplant Sketch in the near future. Studio is in early access roll out as of this writing but there is a lot of buzz around this tool as it promises to seamlessly combine powerful design, prototyping and collaboration in one cross-platform (Mac and Windows) tool.
+
+[Framer](https://framer.com/) is primarily a prototyping tool and designers need to be comfortable writing code in order to truly take advantage of Framer. The good news is that Framer recently enhanced its built-in design tools and that has made Framer’s design/prototyping workflow a little easier. So if you are comfortable coding and you need to create high quality prototypes, then take a look at Framer.
 
 Last but certainly not least, the browser-based design tools such as [Figma](https://www.figma.com/) and [UXPin](https://www.uxpin.com/) are growing in popularity; they offer good design tools, plus collaborative design environments, shared libraries and components.
 
 ## **Tools Are Great But…**
 
-Learning the latest tools may help you gain an edge in your job search and the right tools can also save time and improve collaboration within your team. &nbsp;But keep in mind that simply learning tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. Tools will never replace a solid user-centered design process and UX design tools change constantly, so use whatever tool(s) you and your team are most comfortable with to get the job done.
+Learning the latest tools may help you gain an edge in your job search and the right tools can also save time and improve collaboration within your team. But keep in mind that simply learning tools won’t make you a great UX designer no more than swinging a shiny new hammer onto a nail will make you a great carpenter. Tools will never replace a solid user-centered design process and UX design tools change constantly, so use whatever tool(s) you and your team are most comfortable with to get the job done.
 
-If you’ve enjoyed this article please share it with anyone that might be interested in learning more about UX tools.
+If you’ve enjoyed this article please share it on social media.
