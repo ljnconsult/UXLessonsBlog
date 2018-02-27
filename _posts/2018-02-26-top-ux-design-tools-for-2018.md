@@ -6,15 +6,15 @@ date: 2018-02-26 00:00:00
 featured_image: /uploads/top-ux-design-tools-2018.jpg
 ---
 
-If you are new to UX you are probably wondering which design tools you should learn to secure a job. If you’ve been a UX designer for a while, you’ve probably settled on two or three design tools as your favorites but you may be looking for some other tools to streamline your workflow or increase your marketability as a UX designer. This article will cover several tools listed on [uxtools.co](http://uxtools.co/tools/design) and I’ll share my personal opinion based on 20 years of experience working with various design tools.
+Wondering which design tools you should learn to streamline your workflow and increase your marketability as a UX designer? This article covers several tools listed on [uxtools.co](http://uxtools.co/tools/design) and I share my personal opinion based on 20 years of experience working with various design tools.
 
 ## **The Adobe Tools**
 
-Good old Photoshop and Illustrator, and Adobe’s newcomer XD. I lumped these three tools together because they are part of one suite that you can purchase from Adobe as a subscription called the [Creative Cloud](https://www.adobe.com/creativecloud.html). Nearly every designer has heard of Photoshop and Illustrator at some point because Adobe tools have been around for many years. Photoshop is the most widely used professional photo editing software in the world and Illustrator is the most versatile vector-based tool on the market.
+Good old Photoshop and Illustrator, and Adobe’s newcomer XD. I lumped these three tools together because they are part of one suite that you can purchase from Adobe as a monthly subscription called the [Creative Cloud](https://www.adobe.com/creativecloud.html). Nearly every print and digital designer has heard of Photoshop and Illustrator at some point because Adobe tools have been around for many years. Photoshop is the most widely used professional photo editing software and Illustrator is the leader in vector-based illustration tools.
 
-[Adobe XD](https://www.adobe.com/products/xd.html) is slightly different though, it was created from the ground up by Adobe as a rapid design/prototyping tool for UX designers. The biggest benefits of using XD are the ability to do design and prototyping all in one tool and its integration with other Adobe tools. For example, if you already use Photoshop and Illustrator in your design workflow, then it may make sense for you to use XD as your prototyping tool.
+[Adobe XD](https://www.adobe.com/products/xd.html) is slightly different though, it was created from the ground up by Adobe as a rapid design/prototyping tool for UX designers. The biggest benefits of using XD are the ability to do design and prototyping all in one tool and its integration with other Adobe tools. For example, if you already use Photoshop and Illustrator in your design workflow, then consider using XD as your prototyping tool.
 
-UXers should definitely familiarize themselves with Photoshop and Illustrator. I still see many companies listing proficiency with Adobe tools as a preferred skill. Photoshop and Illustrator are the tools I first learned in my early years as a web designer and even though I don’t use them as often, I still recommend learning them. I taught myself Photoshop and Illustrator many years ago and it is even easier to learn these tools today with online tutorials such as the ones offered by [Lynda.com](http://www.lynda.com).
+UXers should definitely familiarize themselves with Photoshop and Illustrator. I still see many companies listing proficiency with Adobe tools as a preferred skill.&nbsp; I taught myself Photoshop and Illustrator many years ago with books but it is even easier to learn these tools today with online tutorials such as the ones offered by [Lynda.com](http://www.lynda.com).
 
 ## **The Current Favorite Is…**
 
