@@ -1,5 +1,5 @@
 ---
-title: Back to Basics – What Does the Term “UX” Mean?
+title: Back to Basics – What Does “UX” Mean?
 categories:
   - UX Design
 date: 2018-04-03 00:00:00
@@ -10,7 +10,7 @@ What is UX? You may get a different answer to that question depending on who you
 
 That source is Donald Norman; he was the first person at Apple Computer to have “User Experience” in his job title back in 1993. He is also the author of the popular book The Design of Everyday Things, and if you have not read his book yet I highly recommend it for all current and future UXers.
 
-Now watch the video below as Donald Norman explains in his own words what the&nbsp; UX means:
+Now watch the video below as Donald Norman explains in his own words what the  UX means:
 
 <iframe src="https://www.youtube.com/embed/9BdtGjoIN4E?rel=0" allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" width="560" height="315"><br /></iframe>
 
