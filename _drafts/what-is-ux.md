@@ -10,7 +10,7 @@ What is UX? You may get a different answer to that question depending on who you
 
 That source is Donald Norman; he was the first person at Apple Computer to have “User Experience” in his job title back in 1993. He is also the author of the popular book The Design of Everyday Things, and if you have not read his book yet I highly recommend it for all current and future UXers.
 
-Now watch the video below as Donald Norman explains in his own words what the  UX means:
+Now watch the video below as Donald Norman explains in his own words what the term UX means:
 
 <iframe src="https://www.youtube.com/embed/9BdtGjoIN4E?rel=0" allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" width="560" height="315"><br /></iframe>
 
@@ -20,7 +20,7 @@ Now even though design methods and technology have advanced over the years, Norm
 
 So when people ask me how I define UX, I respond with a similar definition to Norman but I also factor in the affective aspects of human-computer interaction such as the users feelings and emotions.Therefore, I often respond;
 
-***"A user experience is an end-user’s feelings and beliefs about a company, its services and products based on one or more interactions.”***
+**"A user experience is an end-user’s feelings and beliefs about a company, its services and products based on one or more interactions.”**
 
 With this definition I am attempting to go a little deeper than Norman’s original definition and demonstrate that a user experience ultimately results in positive or negative emotions from the end user. Thus, UX is not merely about making usable products and services but also makings products and services more enjoyable to use.
 
