@@ -14,6 +14,7 @@ That source is Donald Norman; he was the first person at Apple Computer to have 
 
 Now watch the video below as Donald Norman explains in his own words what the&nbsp; UX means:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9BdtGjoIN4E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 &nbsp;
 
 Donald Norman describes UX as, “everything that touches upon your experience with the product”. His definition has been further refined by a group he co-founded, the Nielsen Norman Group. The Nielsen Norman Group believes, “user experience encompasses all aspects of the end-user's interaction with the company, its services, and its products”.
