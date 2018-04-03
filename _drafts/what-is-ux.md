@@ -1,5 +1,5 @@
 ---
-title: Back to Basics – What Does the term “UX” Mean?
+title: Back to Basics – What Does the Term “UX” Mean?
 categories:
   - UX Design
 date: 2018-04-03 00:00:00
