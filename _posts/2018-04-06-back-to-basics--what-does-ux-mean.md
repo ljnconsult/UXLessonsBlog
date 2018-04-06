@@ -2,7 +2,7 @@
 title: Back to Basics – What Does “UX” Mean?
 categories:
   - UX Design
-date: 2018-04-03 00:00:00
+date: 2018-04-06 00:00:00
 featured_image: /uploads/what-is-ux-confused.jpg
 ---
 
@@ -18,10 +18,10 @@ Donald Norman describes UX as, “everything that touches upon your experience w
 
 Now even though design methods and technology have advanced over the years, Norman’s definition of UX is still compelling. That’s because UX is fundamentally not about a particular design method, device or technology such as websites or apps. It’s not the same thing as the UI (user interface), nor is UX simply part of someone’s job title, such as “UX Designer”.
 
-So when people ask me how I define UX, I respond with a similar definition to Norman and NN/g but I also factor in the affective aspects of human-computer interaction such as the user's feelings and emotions:
+So when people ask me how I define UX, I respond with a similar definition to Norman and NN/g but I also factor in the affective aspects of human-computer interaction such as the user’s feelings and emotions:
 
 > **“A user experience shapes an end-user’s attitude and beliefs about a company, its products and services based on one or more interactions.”**
 
-With this definition I am attempting to go a little deeper than Norman’s original definition and demonstrate the impact of UX on the end-user.&nbsp;
+With this definition I am attempting to go a little deeper than Norman’s original definition and demonstrate the impact of UX on the end-user.
 
 How about you? How do you respond to the question, what is UX? Who or what helped you arrive at your definition? Go ahead and comment below.
