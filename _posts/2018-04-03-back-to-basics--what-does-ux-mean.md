@@ -8,7 +8,7 @@ featured_image: /uploads/don-norman-what-is-ux.jpg
 
 What is UX? You may get a different answer to that question depending on who you ask. Over the years, I have given that question and answer a lot of thought but my research kept pointing me back to the same source and definition.
 
-That source is Donald Norman; he was the first person at Apple Computer to have “User Experience” in his job title back in 1993. He is also the author of the popular book, *The Design of Everyday Things,* and if you have not read his book yet I highly recommend it for all current and future UXers.
+That source is Donald Norman; he was the first person at Apple Computer to have “User Experience” in his job title back in 1993. He is also the author of the popular book, *The Design of Everyday Things*, and if you have not read his book yet I highly recommend it for all current and future UXers.
 
 Now watch the video below as Donald Norman explains in his own words what the term UX means:
 
