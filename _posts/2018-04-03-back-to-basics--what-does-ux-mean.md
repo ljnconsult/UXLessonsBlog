@@ -3,7 +3,7 @@ title: Back to Basics – What Does “UX” Mean?
 categories:
   - UX Design
 date: 2018-04-03 00:00:00
-featured_image: /uploads/don-norman-what-is-ux.jpg
+featured_image: /uploads/what-is-ux-confused.jpg
 ---
 
 What is UX? You may get a different answer to that question depending on who you ask. Over the years, I have given that question and answer a lot of thought but my research kept pointing me back to the same source and definition.
