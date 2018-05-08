@@ -26,4 +26,6 @@ Here are Laura’s top tips for working with UX Recruiters and improving your jo
 
 6. Don’t allow recruiters to send out your resume or portfolio without your knowledge and permission.
 
-7. If a UX Recruiter is already representing you to an employer, don’t submit your resume directly to the employer again.<br><br>I want to thank Laura for taking time to share her insights on this topic. Visit her [LinkedIn page](https://www.linkedin.com/in/laurahunter/){: target="_blank"} or [www.VividResources.com](http://www.VividResources.com){: target="_blank"} to learn more about Laura and her services.
+7. If a UX Recruiter is already representing you to an employer, don’t submit your resume directly to the employer again.
+
+I want to thank Laura for taking time to share her insights on this topic. Visit her [LinkedIn page](https://www.linkedin.com/in/laurahunter/){: target="_blank"} or [www.VividResources.com](http://www.VividResources.com){: target="_blank"} to learn more about Laura and her services.
